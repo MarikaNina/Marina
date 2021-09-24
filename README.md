@@ -103,6 +103,6 @@ void loop() {
 
 
 ```
-![]()
+![](IMG_20210924_133851.jpg)
 # Liikennevalo efekti tehtiin 24.9.2021
   
