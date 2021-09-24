@@ -24,7 +24,7 @@
   ```javascript
   function fancyAlert(arg) {
    if(arg){
-   $.Facebox({div:´#https://github.com/MarikaNina/Marina/blob/main/IMG_20210924_133851.jpg'})
+   $.Facebox({div:https://github.com/MarikaNina/Marina/blob/main/IMG_20210924_133851.jpg})
    }
    
    }
