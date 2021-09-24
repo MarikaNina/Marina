@@ -24,5 +24,6 @@
   ```javascript
   function fancyAlert(arg) {
    if(arg){
+   $.Facebox({div:
    
   
