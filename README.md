@@ -25,8 +25,7 @@
   function fancyAlert(arg) {
    if(arg){
    [liikennevalot](div:https://github.com/MarikaNina/Marina/blob/main/IMG_20210924_133851.jpg)
-   }
-   
+     }
    }
   ```
    // ------------
