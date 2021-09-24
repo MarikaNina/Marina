@@ -21,5 +21,8 @@
   ||
   [kytkentäkaavio] (https://phkk365-my.sharepoint.com/:i:/g/personal/marika_forss_edu_salpaus_fi/EXXqD0eFpK5Hko2ct6-_SrABdiCB8Kg2VE8x3xXXxwXcuQ?e=2ZYZIV)
   ||
-  
+  ```javascript
+  function fancyAlert(arg) {
+   if(arg){
+   
   
