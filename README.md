@@ -108,7 +108,7 @@ void loop() {
 
 Maanantai 15.11.2021
 ![](IMG_20211101_133141.jpg)
-
+![](IMG_20211115_133759.jpg)
 Maanantai 22.11.2021
 
 
