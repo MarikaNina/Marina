@@ -120,4 +120,6 @@ Maanantai 22.11.2021
 Koko koodi valmiina
 ![](IMG_20211122_131429.jpg)
 ![](IMG_20211122_140103.jpg)
-  
+![](IMG_20211122_140206.jpg)
+CHART
+
