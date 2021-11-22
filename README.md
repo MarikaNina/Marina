@@ -116,6 +116,8 @@ Maanantai 15.11.2021
 #SELECT * FROM Mittari;
 ||
 Maanantai 22.11.2021
-
+||
+Koko koodi valmiina
+![](IMG_20211122_131429.jpg)
 
   
