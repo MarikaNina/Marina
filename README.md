@@ -109,6 +109,11 @@ void loop() {
 Maanantai 15.11.2021
 ![](IMG_20211101_133141.jpg)
 ![](IMG_20211115_133759.jpg)
+Komentoikkuna
+-mysgl -u root -p
+Hyte
+use Tiedot
+SELECT * FROM Mittari;
 Maanantai 22.11.2021
 
 
