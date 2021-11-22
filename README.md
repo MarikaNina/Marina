@@ -123,3 +123,4 @@ Koko koodi valmiina
 ![](IMG_20211122_140206.jpg)
 CHART
 ![](IMG_20211122_140114.jpg)
+![](IMG_20211122_140133.jpg)
