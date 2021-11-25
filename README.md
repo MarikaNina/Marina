@@ -116,6 +116,7 @@ Opettajan koodi
 ![](ohjekoodi.jpg)
 ![](ohjekoodi1.jpg)
 ![](ohjekoodi2.jpg)
+![](IMG_20211108_104408.jpg)
 ----
 Omaa koodia rakennettu
 ![](IMG_20211101_133141.jpg)
@@ -126,8 +127,6 @@ Omaa koodia rakennettu
 *Hyte
 *use Tiedot
 *SELECT * FROM Mittari;
----
-![](IMG_20211108_104408.jpg)
 ---
  Maanantai 22.11.2021
  Koko koodi valmiina
