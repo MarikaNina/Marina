@@ -108,21 +108,34 @@ void loop() {
 
  ###Maanantai 15.11.2021
 ||
+---
 ![](Mariadbkaaviokuva.jpg)
+----
+Opettajan koodi
+![](ohjekoodi.jpg)
+![](ohjekoodi1.jpg)
+![](ohjekoodi2.jpg)
+----
 ![](IMG_20211101_133141.jpg)
 ![](IMG_20211115_133759.jpg)
+---
  ##Komentoikkuna
 *-mysgl -u root -p
 *Hyte
 *use Tiedot
 *SELECT * FROM Mittari;
+---
 ![](IMG_20211108_104408.jpg)
+---
  ###Maanantai 22.11.2021
  Koko koodi valmiina
   Koodia muutettiin niin että alakerran diveistä tehtiin samanlaiset kuin yläkerran divit ( vertaa kuvia) ja tehtiin linkki Chartti sivulle.
+  ---
 ![](IMG_20211122_131429.jpg)
 ![](IMG_20211122_140103.jpg)
 ![](IMG_20211122_140206.jpg)
+---
 CHART koodi ja diagrammi
 ![](IMG_20211122_140114.jpg)
 ![](IMG_20211122_140133.jpg)
+---
