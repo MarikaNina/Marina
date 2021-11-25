@@ -111,6 +111,9 @@ Maanantai 15.11.2021
 ||
 ---
 ![](Mariadbkaaviokuva.jpg)
+Kansiot/var/www/html
+avaa text-editor
+hhp:localhost
 ----
 Opettajan koodi
 ![](ohjekoodi.jpg)
