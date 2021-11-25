@@ -106,18 +106,17 @@ void loop() {
 ```
 ![](IMG_20210924_133851.jpg)
 
-###Maanantai 15.11.2021
+ ###Maanantai 15.11.2021
 ||
 ![](IMG_20211101_133141.jpg)
 ![](IMG_20211115_133759.jpg)
-##Komentoikkuna
+ ##Komentoikkuna
 *-mysgl -u root -p
 *Hyte
 *use Tiedot
 *SELECT * FROM Mittari;
-||
-###Maanantai 22.11.2021
-Koko koodi valmiina
+ ###Maanantai 22.11.2021
+ Koko koodi valmiina
 ![](IMG_20211122_131429.jpg)
 ![](IMG_20211122_140103.jpg)
 ![](IMG_20211122_140206.jpg)
