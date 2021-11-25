@@ -108,6 +108,7 @@ void loop() {
 
  ###Maanantai 15.11.2021
 ||
+![](Maria db kaaviokuva.jpg)
 ![](IMG_20211101_133141.jpg)
 ![](IMG_20211115_133759.jpg)
  ##Komentoikkuna
