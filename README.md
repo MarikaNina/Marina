@@ -133,7 +133,8 @@ Omaa koodia rakennettu
 ---
  Maanantai 22.11.2021
  Koko koodi valmiina
-  Koodia muutettiin niin että alakerran diveistä tehtiin samanlaiset kuin yläkerran divit ( vertaa kuvia) ja tehtiin linkki Chartti sivulle.
+  Koodia muutettiin niin että alakerran diveistä tehtiin samanlaiset kuin yläkerran divit ( vertaa kuvia) ja tehtiin linkki Chartti sivulle. 
+  SQL hakua muutettiin näin SELECT*FROM Mittari ORDER BY id DESC LIMIT 20;
   ---
 ![](IMG_20211122_131429.jpg)
 ![](IMG_20211122_140103.jpg)
