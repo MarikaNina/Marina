@@ -108,7 +108,7 @@ void loop() {
 ---
 
 Maanantai 15.11.2021
-||
+Kaavio lämpömittarin teosta
 ---
 ![](Mariadbkaaviokuva.jpg)
 Kansiot/var/www/html
