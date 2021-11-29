@@ -125,13 +125,13 @@ Omaa koodia rakennettu
 ![](IMG_20211101_133141.jpg)
 ![](IMG_20211115_133759.jpg)
 ---
- Komentoikkuna
+# Komentoikkuna
 *-mysgl -u root -p
 *Hyte
 *use Tiedot
 *SELECT * FROM Mittari;
 ---
- Maanantai 22.11.2021
+ #Maanantai 22.11.2021
  Koko koodi valmiina
  ---
   Koodia muutettiin niin että alakerran diveistä tehtiin samanlaiset kuin yläkerran divit ( vertaa kuvia) ja tehtiin linkki Chartti sivulle. 
@@ -141,7 +141,9 @@ Omaa koodia rakennettu
 ![](IMG_20211122_140103.jpg)
 ![](IMG_20211122_140206.jpg)
 ---
-CHART koodi ja diagrammi
+#CHART koodi ja diagrammi
 ![](IMG_20211122_140114.jpg)
 ![](IMG_20211122_140133.jpg)
 ---
+#Maanantai 29.11.2021 
+Chart.php lisättiinn php:tä, jotta saatiin Mittarista haettua uusinta tietoa. Koodi oli sama kuin php:ssä. Kuva koodista kun se on valmis.Chartti kun saatiin toimimaan, kytkettiin anturi kiinni. Anturin kytkentä tehtiin ohjeiden mukaan ( kuva kytkennästä). Sen jälkeen ruvettiin syöttämään esimerkki koodia.
