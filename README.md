@@ -149,3 +149,4 @@ Maanantai 29.11.2021
 Chart.php lisättiinn php:tä, jotta saatiin Mittarista haettua uusinta tietoa. Koodi oli sama kuin php:ssä. Kuva koodista kun se on valmis.Chartti kun saatiin toimimaan, kytkettiin anturi kiinni. Anturin kytkentä tehtiin ohjeiden mukaan ( kuva kytkennästä). Sen jälkeen ruvettiin syöttämään esimerkki koodia.
 ---
 ![](opettajankoodichart.jpg)
+![](chartkoodivalmis.jpg)
