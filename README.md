@@ -117,8 +117,6 @@ hhp:localhost
 ----
 Opettajan koodi
 ![](ohjekoodi.jpg)
-![](ohjekoodi1.jpg)
-![](ohjekoodi2.jpg)
 ![](IMG_20211108_104408.jpg)
 ----
 Omaa koodia rakennettu
