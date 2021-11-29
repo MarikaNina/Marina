@@ -133,6 +133,7 @@ Omaa koodia rakennettu
 ---
  Maanantai 22.11.2021
  Koko koodi valmiina
+ ---
   Koodia muutettiin niin että alakerran diveistä tehtiin samanlaiset kuin yläkerran divit ( vertaa kuvia) ja tehtiin linkki Chartti sivulle. 
   SQL hakua muutettiin näin SELECT*FROM Mittari ORDER BY id DESC LIMIT 20; Tällä koodilla haetaan 20 uusinta tulosta mittarista.
   ---
