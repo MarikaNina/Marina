@@ -146,7 +146,7 @@ CHART koodi ja diagrammi
 ![](IMG_20211122_140133.jpg)
 ---
 Maanantai 29.11.2021 
-Chart.php lisättiinn php:tä, jotta saatiin Mittarista haettua uusinta tietoa. Koodi oli sama kuin php:ssä. Kuva koodista kun se on valmis.Chartti kun saatiin toimimaan, kytkettiin anturi kiinni. Anturin kytkentä tehtiin ohjeiden mukaan ( kuva kytkennästä). Sen jälkeen ruvettiin syöttämään esimerkki koodia.
+Chart.php lisättiin PHP:tä, jotta saatiin Mittarista haettua uusinta tietoa. Koodi oli samaa PHP:tä kuin HTML:ssä. Kuva koodista kun se on valmis.Chartti kun saatiin toimimaan, kytkettiin anturi kiinni. Anturin kytkentä tehtiin ohjeiden mukaan ( kuva kytkennästä). Sen jälkeen ruvettiin syöttämään esimerkki koodia.
 ---
 ![](opettajankoodichart.jpg)
 ![](chartkoodivalmis.jpg)
