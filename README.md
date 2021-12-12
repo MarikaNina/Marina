@@ -119,8 +119,10 @@ Opettajan koodi
 ![](ohjekoodi.jpg)
 ![](IMG_20211108_104408.jpg)
 ----
-Omaa koodia rakennettu
+Koodia avuksi
 ![](IMG_20211101_133141.jpg)
+---
+Oma koodi valmiina
 ![](IMG_20211115_133759.jpg)
 ---
 # Komentoikkuna
@@ -148,5 +150,7 @@ Chart.php lisättiin PHP:tä, jotta saatiin Mittarista haettua uusinta tietoa. K
 ---
 ![](opettajankoodichart.jpg)
 ![](chartkoodivalmis.jpg)
+---
 Anturin esimerkkikoodi opettajalta
 ![](anturinohje.jpg)
+---
