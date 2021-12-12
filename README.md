@@ -151,6 +151,6 @@ Chart.php lisättiin PHP:tä, jotta saatiin Mittarista haettua uusinta tietoa. K
 ![](opettajankoodichart.jpg)
 ![](chartkoodivalmis.jpg)
 ---
-Anturin esimerkkikoodi opettajalta
+Anturin esimerkki kytkentä
 ![](anturinohje.jpg)
 ---
