@@ -12,6 +12,7 @@
   ||
   
   [Powered by Salpauksen hyvikset](https://www.salpaus.fi)
+  
   ||
   ## Uusiprojekti
   ### Komponenttilista
