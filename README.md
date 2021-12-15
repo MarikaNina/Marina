@@ -13,7 +13,7 @@
   
   [Powered by Salpauksen hyvikset](https://www.salpaus.fi)
   
-  ||
+  
   ## Uusiprojekti
   ### Komponenttilista
   * kehityskortti 28,90€
