@@ -4,7 +4,7 @@
   * Marika Forss
   * Nina Varpa
   ||
-  ![](Marika.jpg)
+  ![](Marika1.jpg)
   [Ninnun naama](C:\Users\Nina\OneDrive - Koulutuskeskus Salpaus\Tiedostot\Koulu\Ryhmätyö(url)
   ### Asiakaskertomus
   Kanban    | Sprintti   | Tuntikirjaukset
