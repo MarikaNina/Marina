@@ -156,10 +156,12 @@ Anturin esimerkki kytkentä
 ---
 Maanantai 13.12.2021
 ---
-Yritimme ratkaista kuinka saisimme anturilta tulemaan realiaikasta tietoa tulemaan charttiin.
+Yritimme ratkaista kuinka saisimme anturilta tulemaan realiaikasta tietoa charttiin!
 ---
 Koodivinkki anturille!!!
 ---
-![]/Anturinkoodi.jpg)
+![](Anturinkoodi.jpg)
 ---
-Anturi
+Anturi DHT11
+![](anturidht11.jpg)
+---
