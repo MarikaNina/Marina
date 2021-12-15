@@ -154,3 +154,12 @@ Chart.php lisättiin PHP:tä, jotta saatiin Mittarista haettua uusinta tietoa. K
 Anturin esimerkki kytkentä
 ![](anturinohje.jpg)
 ---
+Maanantai 13.12.2021
+---
+Yritimme ratkaista kuinka saisimme anturilta tulemaan realiaikasta tietoa tulemaan charttiin.
+---
+Koodivinkki anturille!!!
+---
+![]/Anturinkoodi.jpg)
+---
+Anturi
