@@ -5,7 +5,7 @@
   * Nina Varpa
   
   ![](Marika1.jpg)
-  ![](Ninnun naama.jpg)
+  ![](Ninnu.jpg)
   ### Asiakaskertomus
   Kanban    | Sprintti   | Tuntikirjaukset
   --------- | ---------- | ----------------
