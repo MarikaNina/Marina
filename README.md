@@ -117,6 +117,8 @@ Kansiot/var/www/html
 avaa text-editor
 hhp:localhost
 ----
+Anturiin on valmis kirjasto Adafruit_DHT mitä käytettin. Python koodilla tieto tallennettiin tietovarastoon Mariadb. Selain käyttöliittymällå (PHP) haetiin tieto tietokannasta ja käyttöliittymä piirsi tietokannasta saadulla tiedolla chartin (google.chart). PHP on server kieli. JS käytettiin google.chartissa, client side. HTML rakenne. PHP hakee tietokannasta ja piirtää.  
+---
 Opettajan koodi
 ![](ohjekoodi.jpg)
 ![](IMG_20211108_104408.jpg)
@@ -191,6 +193,8 @@ while True:
     conn.commit()
     
 conn.close()
+
+---
 
 ---
 Anturi DHT11
