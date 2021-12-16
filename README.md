@@ -162,7 +162,37 @@ Yritimme ratkaista kuinka saisimme anturilta tulemaan realiaikasta tietoa chartt
 ---
 Koodivinkki anturille!!!
 ---
-![](Anturinkoodi.jpg)
+'''
+import time
+import Adafruit_DHT
+from datetime import datetime
+import mariadb
+
+
+DHT_SENSOR = Adafruit_DHT.DHT11
+DHT_PIN = 4
+
+#arvo= 2
+conn = mariadb.connect(user="root", password="HyTe", host="localhost", database="Tiedot")
+cur = conn.cursor()
+
+while True:
+    humidity, temperature = Adafruit_DHT.read(DHT_SENSOR, DHT_PIN)
+    if humidity is not None and temperature is not None:
+        print("Temp={0:0.1f}C Humidity={1:0.1f}%".format(temperature, humidity))
+        cur.execute(f"INSERT INTO Mittari (arvo,pvm)VALUES('{temperature}', '{datetime.now()}')")
+    else:
+        print("else");
+    time.sleep(3);
+
+    #print(f'Python toimii: {datetime.now()}') 
+    
+ #   arvo += 2 
+    conn.commit()
+    
+conn.close()
+
+'''
 ---
 Anturi DHT11
 ![](anturidht11.jpg)
