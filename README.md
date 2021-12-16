@@ -162,7 +162,7 @@ Yritimme ratkaista kuinka saisimme anturilta tulemaan realiaikasta tietoa chartt
 ---
 Koodivinkki anturille!!!
 ---
-'''
+
 import time
 import Adafruit_DHT
 from datetime import datetime
@@ -192,7 +192,6 @@ while True:
     
 conn.close()
 
-'''
 ---
 Anturi DHT11
 ![](anturidht11.jpg)
