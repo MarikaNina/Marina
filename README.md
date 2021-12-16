@@ -160,8 +160,6 @@ Maanantai 13.12.2021
 ---
 Yritimme ratkaista kuinka saisimme anturilta tulemaan realiaikasta tietoa charttiin!
 ---
-Koodivinkki anturille!!!
----
 
 import time
 import Adafruit_DHT
