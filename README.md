@@ -160,6 +160,8 @@ Maanantai 13.12.2021
 ---
 Yritimme ratkaista kuinka saisimme anturilta tulemaan realiaikasta tietoa charttiin!
 ---
+'''
+Python Koodi
 
 import time
 import Adafruit_DHT
@@ -189,7 +191,7 @@ while True:
     conn.commit()
     
 conn.close()
-
+'''
 ---
 Anturi DHT11
 ![](anturidht11.jpg)
